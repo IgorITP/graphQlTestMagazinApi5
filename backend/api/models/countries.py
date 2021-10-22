@@ -11,4 +11,4 @@ class Countries(Model):
 
     class Meta:
         verbose_name = "Country"
-        verbose_name = "Countries"
+        verbose_name_plural = "Countries"
